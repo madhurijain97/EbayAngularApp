@@ -1,0 +1,26 @@
+{
+  "name": "homework8working",
+  "version": "1.0.1",
+  "private":true,
+  "description": "trying deployment",
+  "main": "index.html",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "dependencies":{
+    "ejs" : "latest",
+    "aws-sdk" : "latest",
+    "express" : "latest",
+    "body-parser" : "latest",
+    "https" : "1.0.0",
+    "http" : "0.0.0",
+    "cors" : "2.8.5",
+    "request" : "2.88.0"
+  },
+  "keywords": [
+    "ebay",
+    "Application"
+  ],
+  "author": "Madhuri Jain",
+  "license": "UNLICENSED"
+}
